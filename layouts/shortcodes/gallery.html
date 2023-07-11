@@ -1,0 +1,14 @@
+<div class="gallery-box">
+    <div class="gallery">
+        {{- with $.Page.Params -}}
+            {{- range .images -}}
+                <img src="{{- .src -}}" loading="lazy" class="lightense-target">
+            {{- end -}}
+        </div>
+        <em>
+            {{- if .attribution -}}
+                Gallery / <a href="{{- .attribution.url -}}" target="_blank">{{- .attribution.name -}}</a>
+            {{- end -}}
+        {{- end -}}
+    </em>
+</div>
