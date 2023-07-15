@@ -1,3 +1,11 @@
 .hugo_build.lock
 node_modules/*
 package-lock.json
+.obsidian/cache
+.trash
+.DS_Store.
+.obsidian/workspace
+.obsidian\workspace
+.obsidian/workspace.json
+.obsidian\workspace.json
+.obsidian/*
