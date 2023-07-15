@@ -1,0 +1,9 @@
+baseURL: https://cloudflare-pages-test01.sudhirs.ca/
+languageCode: en-us
+title: My New Hugo Site
+module:
+  replacements: github.com/spf13/hyde -> /mnt/hdd01/projects/learn-hugo/hyde
+  imports:
+    - path: github.com/spf13/hyde
+params:
+  name: Simba
