@@ -5,5 +5,6 @@ module:
   # replacements: github.com/spf13/hyde -> /mnt/hdd01/projects/learn-hugo/hyde
   imports:
     - path: github.com/spf13/hyde
+    - path: github.com/hugoinaction/hugo-debug-utils
 params:
   name: Simba

@@ -1,2 +1,6 @@
+github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f h1:dKZYPXzYt0zXGm82D3YufsaMvbPTIIV5jibKUvQcl5g=
+github.com/hugoinaction/hugo-debug-utils v0.0.0-20220702145907-d1ee2aca7e2f/go.mod h1:YA0Taxzbbqz9oEvtMUW/uuPRE2v93r0WPMLkWaqiuBs=
+github.com/kaushalmodi/hugo-debugprint v0.1.0 h1:L8McCoJ0WPkKSRQ0f3j4mMGubIedbOWdLs9Y4/rPGAs=
+github.com/kaushalmodi/hugo-debugprint v0.1.0/go.mod h1:vusrDLlGE+4Uc1b4PgM0dI8lJCEqC1o7NjFr8WIfkaQ=
 github.com/spf13/hyde v1.1.0 h1:ZKOakmybNrsaUQCZsf/XwwGIp6NHjUuU3klBgVuoees=
 github.com/spf13/hyde v1.1.0/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
