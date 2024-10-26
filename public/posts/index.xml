@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://192.168.10.191:1313/posts/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.10.191:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Hugo content creation with Obsidian</title>
+      <link>http://192.168.10.191:1313/posts/testing-obsidian-for-hugo/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.191:1313/posts/testing-obsidian-for-hugo/</guid>
+      <description>Testing to see how obsidian can be used for writing hugo posts.&#xA;This is my current setup in obsidian.&#xA;This is relative path to the file This is absolute path in the vault. Shortest path possible. </description>
+    </item>
+    <item>
+      <title>I like to roar</title>
+      <link>http://192.168.10.191:1313/posts/2022-04-03-i-like-to-roar/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.191:1313/posts/2022-04-03-i-like-to-roar/</guid>
+      <description>Hi, quick update from me. I just want to let everyone know that I like roaring.&#xA;Testing.&#xA;Test&#xA;A nice quote from someone.&#xA;Some other text. Blah blah blah. Some other text. Blah blah blah.Some other text. Blah blah blah. Some other text. Blah blah blah. Some other text. Blah blah blah.Some other text. Blah blah blah.Some other text. Blah blah blah.Some other text. Blah blah blah.Some other text. Blah blah blah.</description>
+    </item>
+    <item>
+      <title>Today I made friends</title>
+      <link>http://192.168.10.191:1313/posts/2022-04-02-today-i-made-friends/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.191:1313/posts/2022-04-02-today-i-made-friends/</guid>
+      <description>I got lost in the woods today. Two friends, a Meerkat and a Warthog, found me, sung a song with me and gave my life new meaning. Today was a good day.</description>
+    </item>
+    <item>
+      <title>Vegan experiment</title>
+      <link>http://192.168.10.191:1313/posts/2022-04-01-vegan-experiment/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.191:1313/posts/2022-04-01-vegan-experiment/</guid>
+      <description>I tried to become a vegan today. This is a test.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://192.168.10.191:1313/posts/testing-image-uploads-obsidian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.191:1313/posts/testing-image-uploads-obsidian/</guid>
+      <description>Testing image upload functionality from Obsidian.</description>
+    </item>
+    <item>
+      <title>Hello from Tinacms</title>
+      <link>http://192.168.10.191:1313/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.10.191:1313/posts/hello-world/</guid>
+      <description>Hello World! Editing this post via Tinacms&#xA;Let&amp;rsquo;s see how this shows up. Excited&#xA;Hurray!</description>
+    </item>
+  </channel>
+</rss>

@@ -37,7 +37,95 @@ export default defineConfig({
             name: "body",
             label: "Body",
             isBody: true,
+            templates: [
+              {
+                name: 'youtube',
+                label: 'YouTube Link',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                  name: 'youtube',
+                },
+                fields: [
+                  {
+                    name: '_value',
+                    label: 'Video Id',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+              {
+                name: 'twitter',
+                label: 'Twitter Link',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                  name: 'twitter',
+                },
+                fields: [
+                  {
+                    name: 'user',
+                    label: 'Twitter Username',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'id',
+                    label: 'Tweet Id',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+              {
+                name: 'figure',
+                label: 'CDN Image',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                  name: 'figure',
+                },
+                fields: [
+                  {
+                    name: 'src',
+                    label: 'Image URL',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'title',
+                    label: 'Image Caption',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+            ],
           },
+          // {
+          //   type: 'string',
+          //   name: 'myshortcode',
+          //   templates: [
+          //     {
+          //       name: 'myshortcode',
+          //       label: 'myshortcode',
+          //       match: {
+          //         start: '{{<',
+          //         end: '>}}',
+          //         name: 'my-shortcode',
+          //       },
+          //       fields: [
+          //         {
+          //           name: '_value',
+          //           label: 'value',
+          //           type: 'string',
+          //           required: true,
+          //         },
+          //       ],
+          //     },
+          //   ],
+          // },
         ],
       },
     ],
