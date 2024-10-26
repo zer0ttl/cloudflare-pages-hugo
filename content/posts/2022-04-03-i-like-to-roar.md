@@ -13,8 +13,6 @@ title: I like to roar
 
 Hi, quick update from me. I just want to let everyone know that I like roaring.
 
-<!-- {{< gallery >}} -->
-
 Testing.
 
 Test

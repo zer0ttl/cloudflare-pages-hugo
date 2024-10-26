@@ -103,29 +103,6 @@ export default defineConfig({
               },
             ],
           },
-          // {
-          //   type: 'string',
-          //   name: 'myshortcode',
-          //   templates: [
-          //     {
-          //       name: 'myshortcode',
-          //       label: 'myshortcode',
-          //       match: {
-          //         start: '{{<',
-          //         end: '>}}',
-          //         name: 'my-shortcode',
-          //       },
-          //       fields: [
-          //         {
-          //           name: '_value',
-          //           label: 'value',
-          //           type: 'string',
-          //           required: true,
-          //         },
-          //       ],
-          //     },
-          //   ],
-          // },
         ],
       },
     ],
