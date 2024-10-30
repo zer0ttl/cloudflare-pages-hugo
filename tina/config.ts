@@ -18,6 +18,14 @@ export default defineConfig({
       publicFolder: "content/posts/images",
     },
   },
+  search: {
+    tina: {
+      indexerToken: '760981e72ad66ceea8af5a7337754967b88e50d8',
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
+  },
   schema: {
     collections: [
       {
