@@ -20,7 +20,7 @@ export default defineConfig({
   },
   search: {
     tina: {
-      indexerToken: '760981e72ad66ceea8af5a7337754967b88e50d8',
+      indexerToken: process.env.TINA_SEARCH_TOKEN!, // Get this from tina.io,
       stopwordLanguages: ['eng'],
     },
     indexBatchSize: 100,
