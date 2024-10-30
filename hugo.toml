@@ -1,4 +1,4 @@
-baseURL = 'https://cloudflare-pages-test01.sudhirs.ca/'
+baseURL = 'https://hugo-tinacms-cf-pages.sudhirs.ca/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
