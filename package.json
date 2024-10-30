@@ -4,8 +4,10 @@
   "description": "## Pages",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "tinacms": "tinacms"
+    "dev": "tinacms dev -c \"hugo server -D --bind 192.168.10.191 --baseURL http://192.168.10.191 --noHTTPCache --disableFastRender --logLevel INFO\"",
+    "build": "tinacms build && hugo",
+    "build-local": "tinacms build --local --skip-indexing --skip-cloud-checks && hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
