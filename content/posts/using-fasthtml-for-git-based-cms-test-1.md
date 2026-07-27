@@ -13,7 +13,7 @@ tags:
 - fasthtml
 cover_image: null
 created_at: '2026-07-27T01:44:26.248968Z'
-updated_at: '2026-07-27T02:23:05.884069Z'
+updated_at: '2026-07-27T02:38:16.988844Z'
 published_at: '2026-07-27T01:46:38.961669Z'
 archived_at: null
 date: '2026-07-27T01:46:38Z'
