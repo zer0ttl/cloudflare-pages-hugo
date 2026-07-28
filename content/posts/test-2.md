@@ -10,7 +10,7 @@ tags:
 - hugo
 cover_image: null
 created_at: '2026-07-28T01:59:38.740985Z'
-updated_at: '2026-07-28T02:08:37.798791Z'
+updated_at: '2026-07-28T02:20:55.627937Z'
 published_at: '2026-07-28T02:08:37.798775Z'
 archived_at: null
 date: '2026-07-28T02:08:37Z'
